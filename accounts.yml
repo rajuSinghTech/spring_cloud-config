@@ -1,0 +1,18 @@
+# Common build version
+build:
+  version: "4.1.1"
+
+# Common API contact information
+accounts:
+  # Welcome message for Accounts APIs
+  message: "Welcome to accounts related local APIs"
+
+  # Common contact details
+  contactDetails:
+    name: "Rajeev - Developer"
+    email: "rajusigh48658@gmail.com"
+
+  # On-call support numbers
+  onCallSupport:
+    - "+91-9560309951"
+    - "+91-7800183401"

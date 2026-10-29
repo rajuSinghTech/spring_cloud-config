@@ -1,0 +1,18 @@
+# QA build version
+build:
+  version: "4.2.4"
+
+# QA API contact information
+cards:
+  # Welcome message for QA APIs
+  message: "Welcome to cards related QA APIs"
+
+  # QA contact details
+  contactDetails:
+    name: "Rajeev - Tester"
+    email: "rajusigh48658@gmail.com"
+
+  # QA on-call support numbers
+  onCallSupport:
+    - "+91-9560309951"
+    - "+91-7800183401"

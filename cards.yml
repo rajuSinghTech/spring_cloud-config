@@ -1,0 +1,18 @@
+# Common build version
+build:
+  version: "4.2.1"
+
+# Common API contact information for Cards
+cards:
+  # Welcome message for Cards APIs
+  message: "Welcome to cards related local APIs"
+
+  # Common contact details
+  contactDetails:
+    name: "Rajeev - Developer"
+    email: "rajusigh48658@gmail.com"
+
+  # Common on-call support numbers
+  onCallSupport:
+    - "+91-9560309951"
+    - "+91-7800183401"

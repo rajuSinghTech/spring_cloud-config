@@ -1,0 +1,18 @@
+# Production build version
+build:
+  version: "4.2.2"
+
+# Production API contact information
+cards:
+  # Welcome message for production APIs
+  message: "Welcome to cards related prod APIs"
+
+  # Production contact details
+  contactDetails:
+    name: "Rajeev - Developer"
+    email: "rajusigh48658@gmail.com"
+
+  # Production on-call support numbers
+  onCallSupport:
+    - "+91-9560309951"
+    - "+91-7800183401"

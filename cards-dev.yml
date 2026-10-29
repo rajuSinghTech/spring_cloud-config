@@ -1,0 +1,19 @@
+# Development build version
+build:
+  version: "4.2.3"
+
+# Development API contact information
+cards:
+  # Welcome message for development APIs
+  message: "Welcome to cards related dev APIs"
+
+  # Development contact details
+  contactDetails:
+    name: "Rajeev - Developer"
+    email: "rajusigh48658@gmail.com"
+
+  # Development on-call support numbers
+  onCallSupport:
+    - "+91-9560309951"
+    - "+91-7800183401"
+
