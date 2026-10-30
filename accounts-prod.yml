@@ -5,7 +5,7 @@ build:
 # Production API contact information
 accounts:
   # Welcome message for production APIs
-  message: "Welcome to accounts-related prod APIs"
+  message: "Welcome to accounts-related production APIs"
 
   # Production contact details
   contactDetails:
