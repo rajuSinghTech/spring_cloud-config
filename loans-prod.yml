@@ -5,7 +5,7 @@ build:
 # Production API contact information for Loans
 loans:
   # Welcome message for production APIs
-  message: "Welcome to loans related prod APIs"
+  message: "Welcome to loans-related production APIs"
 
   # Production contact details
   contactDetails:
