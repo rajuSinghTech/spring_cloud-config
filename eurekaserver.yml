@@ -1,0 +1,21 @@
+
+# Eureka Server HTTP Configuration
+server:
+  port: 8070
+
+# Netflix Eureka Server Configuration
+eureka:
+  instance:
+    # Hostname used to identify the Eureka Server instance
+    hostname: localhost
+
+  client:
+    # Eureka Server should not register itself
+    register-with-eureka: false
+
+    # Eureka Server does not need to fetch its own registry
+    fetch-registry: false
+
+    service-url:
+      # Eureka Server registration and discovery endpoint
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
